@@ -7,11 +7,15 @@ Implemented the classic game Tetris. I started designing a basic AI to play the 
 ![Tetris2](http://arthurwut.com/source/image/tetris2.png)
 
 Building / Executing
-########
+====================
 
 To run this from command line run this command from the bin/ directory:
 
 java Driver
 
+Download
+========
+
+Clone this repo or download the source code from my website
 
 [Tetris Full Download](http://arthurwut.com/index.php?Mode=archive&Category=all#G92)
